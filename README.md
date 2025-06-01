@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-## Connect with me
+## Connect with Me
 <p align="left">
 <a href="https://twitter.com/pethumshayam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pethumshayam" height="30" width="40" /></a>
 <a href="https://kaggle.com/pethumshyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pethumshyam" height="30" width="40" /></a>
@@ -56,7 +56,7 @@
 <a href="https://instagram.com/___kanye_east___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___kanye_east___" height="30" width="40" /></a>
 </p>
 
-## Technologies currently using
+## Languages and Technologies Currently Using
 
 
 <div>
@@ -82,7 +82,7 @@
  
 </div>
 
-## Tools currently using
+## Tools Currently Using
 
 
 <div>
