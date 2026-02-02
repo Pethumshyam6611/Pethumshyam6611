@@ -1,22 +1,20 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pethum Shyam</h1>
-<h3 align="center">Passionate Full-Stack Developer | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Associate Software Engineer | Full-Stack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
-
-- 🧑‍🎓 I’m an Undergraduate at **Cardiff Metropolitian University**
-
-- 💬 Ask me about **Java Script**
-
-- 📫 How to reach me **pethumshayam66@gmail.com**
-  
-- ⚡ Fun fact **Call me as Pethum**
+<td width="50%" align="left"> 
+<br>
+      <ul>
+        <li>🔭 I’m currently working as a Associate Software Engineer</li>
+        <li>🎓 B.Sc. (Hons) First Class Graduate from <b>Cardiff Metropolitan University</b></li>
+        <li>💻 Specializing in MERN Stack & Modern Web Tech</li>
+        <li>💬 Ask me about JavaScript, React & System Design</li>
+        <li>📫 Reach me at: <a href="mailto:pethumshayam66@gmail.com">pethumwaragoda666@gmail.com</a></li>
+      </ul>
 
 </td>
 <td width="50%" align="center">
@@ -29,24 +27,6 @@
 </table>
 
 ---
-
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 
 ## Connect with Me
 <p align="left">
@@ -73,7 +53,6 @@
   <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img  alt="c" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img  alt="aws" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img  alt="mui" src ="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
@@ -89,7 +68,6 @@
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
   <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
-  <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
