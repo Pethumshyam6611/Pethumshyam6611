@@ -10,7 +10,7 @@
 <br>
       <ul>
         <li>🔭 I’m currently working as a Associate Software Engineer</li>
-        <li>🎓 B.Sc. (Hons) First Class Graduate from <b>Cardiff Metropolitan University</b></li>
+        <li>🎓 B.Sc. (Hons) Software Engineering First Class Graduate from <b>Cardiff Metropolitan University</b></li>
         <li>💻 Specializing in MERN Stack & Modern Web Tech</li>
         <li>💬 Ask me about JavaScript, React & System Design</li>
         <li>📫 Reach me at: <a href="mailto:pethumshayam66@gmail.com">pethumwaragoda666@gmail.com</a></li>
